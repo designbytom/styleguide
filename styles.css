@@ -1,0 +1,202 @@
+body {
+  background-color: white;
+}
+
+* {
+  font: #0D1B2A;
+}
+
+.section {
+  border: 3px solid #0D1B2A;
+  margin: 10px 0;
+}
+
+.styleguide {
+  font-weight: 700;
+  font-size: 30px;
+  font-family: 'Open Sans' sans-serif;
+}
+
+
+
+/**** COLOURS ****/
+
+h2 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 25px;
+  font-family: 'Poppins' sans-serif;
+}
+
+.darkestblue {
+  color: #E0E1DD;
+  background-color: #0D1B2A;
+  width: 200px;
+  height: 150px;
+  margin: 2em;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.darkblue {
+  color: #E0E1DD;
+  background-color: #1B263B;
+  width: 200px;
+  height: 150px;
+  margin: 2em;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.lightblue {
+  color: #E0E1DD;
+  background-color: #415A77;
+  width: 200px;
+  height: 150px;
+  margin: 2em;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.lightestblue {
+  color: #0D1B2A;
+  background-color: #778DA9;
+  width: 200px;
+  height: 150px;
+  margin: 2em;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.gray {
+  color: #0D1B2A;
+  background-color: #E0E1DD;
+  width: 200px;
+  height: 150px;
+  margin: 2em;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+
+/**** FONTS ****/
+
+/**** ROBOTO ****/
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+  line-height: 30px;
+}
+
+.roboto li {
+  list-style: none;
+}
+
+.robotohead {
+  text-decoration: underline;
+  font-weight: 400;
+}
+
+.robotobold {
+  font-weight: 700;
+}
+
+.robotothin {
+  font-weight: 100;
+}
+
+.robotoregular {
+  font-weight: 400;
+}
+
+
+/**** POPPINS ****/
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+  line-height: 30px;
+}
+
+.poppins li {
+  list-style: none;
+}
+
+.poppinshead {
+  font-weight: 100;
+  text-decoration: underline;
+}
+
+.poppinsregular {
+  font-weight: 400;
+}
+
+.poppinsmedium {
+  font-weight: 500;
+}
+
+.poppinsbold {
+  font-weight: 700;
+}
+
+
+/**** OPEN SANS ****/
+
+.opensans {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 30px;
+}
+
+.opensans li {
+  list-style: none;
+}
+
+.opensanslight {
+  font-weight: 100;
+  text-decoration: underline;
+}
+
+.opensansregular {
+  font-weight: 400;
+}
+
+.opensansregularitalic {
+  font-style: italic;
+  font-weight: 400;
+}
+
+.opensansbold {
+  font-weight: 700;
+}
+
+
+
+/**** TEXT STYLES ****/
+
+.mainheading {
+  font-weight: 700;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  list-style: none;
+  line-height: 70px;
+}
+
+.subheading {
+  font-weight: 500;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+  list-style: none;
+  line-height: 50px;
+}
+
+.paragraphtext {
+  font-weight: 400;
+  font-size: 16px;
+  font-family: 'Poppins' sans-serif;
+  list-style: none;
+  line-height: 30px;
+}
